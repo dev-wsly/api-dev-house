@@ -1,6 +1,7 @@
 TECNOLOGIAS DESENVOLVIDAS
 - JavaScript;
 - Node.js;
+- Nodemon;
 - Express;
 - Sucrase;
 - Multer;
